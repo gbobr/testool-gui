@@ -57,3 +57,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/target/
+.project
+.settings
+/velocity.log
+
+.classpath
